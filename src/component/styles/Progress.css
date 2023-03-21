@@ -1,0 +1,13 @@
+.progress_main_container{
+    width: 100%;
+    padding:2em;
+    background-color: rgb(150, 123, 123);
+}
+
+.progress_main_container h1{
+width: 45%;
+}
+
+.progress{
+    width: 50%;
+}

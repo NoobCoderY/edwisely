@@ -1,0 +1,68 @@
+.chapter_main_conatiner{
+   display: flex;
+   justify-content: space-between;
+   gap: 2em;
+}
+
+.chapter_cards{
+        flex-basis: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5em;
+        height: 90vh;
+        overflow-y: scroll;
+}
+
+.chapter_card{
+    cursor: pointer;
+}
+
+.chapter_cards::-webkit-scrollbar {
+    display: none;
+  }
+
+  .css-cchvwm{
+    margin-top: 0em;
+  }
+
+.resources_section{
+    flex-basis: 60%;
+    height: 65vh;
+}
+
+.chapter_card{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 1em;
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.chapter_card input{
+    width: 100%;
+}
+
+.article_section{
+    margin-top: 0em;
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+.article_section a{
+    text-decoration: none;
+}
+
+.chapter_name{
+
+}
+
+.select_chapter{
+
+}
+
+@media screen and (width<800px) {
+    .chapter_main_conatiner{
+        flex-direction: column-reverse;
+    }
+}

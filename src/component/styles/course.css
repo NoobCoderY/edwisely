@@ -1,0 +1,42 @@
+.main_course_container{
+ padding: 2em;
+ display: flex;
+ flex-wrap: wrap;
+align-items: center;
+justify-content: space-between;
+gap: 1.5em;
+
+}
+
+
+.main_course_card{
+    flex-basis: 24%;
+    padding: 1em;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.main_course_card_button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5em;
+    
+}
+
+.main_course_card_button button{
+   padding: 0.7em;
+   background-color: green;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   color: white;
+}
+
+
+
+@media screen and (width<700px){
+    .main_course_card{
+        flex-basis: 100%;
+    }
+
+}

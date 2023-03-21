@@ -1,0 +1,1571 @@
+{
+  "main_data": [
+    {
+      "courseName": "dsa-self-paced using c++ and java",
+      "data": [
+        {
+          "chapter": "Data Types",
+          "total_duratin": "57",
+          "topic_name": [
+            {
+              "video_name": "Data Types",
+              "video_link": "https://www.youtube.com/embed/WQoB2z67hvY",
+              "progress": false,
+              "article_link": ""
+            }
+          ],"Excercise":[
+          "https://practice.geeksforgeeks.org/problems/c-data-types1523/1",
+          "https://practice.geeksforgeeks.org/problems/c-basic-data-types3128/1?page=1&category[]=Data%20Type&sortBy=submissions",
+          "https://practice.geeksforgeeks.org/problems/c-a-speed-breaker5249/1?page=1&category[]=Data%20Type&sortBy=submissions"  
+          ]
+        },
+        {
+          "chapter": "Learn C++",
+          "total_duratin": " 1:37",
+          "topic_name": [
+            {
+              "video_name": "Learn C++",
+              "video_link": "https://www.youtube.com/embed/ZzaPdXTrSb8",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/c-plus-plus/"
+            }
+          ],
+          "Excercise":[
+            "https://practice.geeksforgeeks.org/problems/c-hello-world3402/1?page=1&category[]=CPP&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1?page=1&category[]=CPP&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category[]=CPP&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category[]=CPP&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&category[]=CPP&sortBy=submissions"  
+            ]
+        },
+        {
+          "chapter": "Time Complexity And Space Complexity",
+          "total_duratin": "29:12",
+          "topic_name": [
+            {
+              "video_name": "Time Complexity And Space Complexity",
+              "video_link": "https://www.youtube.com/embed/QovOdd80A4s",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+            }
+          ]
+         
+        },
+        {
+          "chapter": "Array",
+          "total_duratin": "5:20:50",
+          "topic_name": [
+            {
+              "video_name": "Array Intro",
+              "video_link": "https://www.youtube.com/embed/sNrLlmOIn-c",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/what-is-array/"
+            },
+            {
+              "video_name": "Find the duplicate number",
+              "video_link": "https://www.youtube.com/embed/32Ll35mhWg0",
+              "progress": false,
+              "article_link": "https://leetcode.com/problems/find-the-duplicate-number/editorial/"
+            },
+            {
+              "video_name": "Reverse An Array",
+              "video_link": "https://www.youtube.com/embed/WI54wvu0_4E",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+            },
+            {
+              "video_name": "SEARCHING & SORTING",
+              "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+              "progress": false,
+              "article_link": "https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/"
+            },
+            {
+              "video_name": " Binary Search Interview Questions",
+              "video_link": "https://www.youtube.com/zD2Jg3alZV8",
+              "progress": false,
+              "article_link": "https://drive.google.com/file/d/1D4SmFwP3vUtoY_FIoDfTjBKfPqSj-4zU/view"
+            }
+          ],
+          "Excercise":[
+            "https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Arrays&sortBy=submissions"
+          ]
+        },
+        {
+          "chapter": "Linked List",
+          "total_duratin": "2:20:50",
+          "topic_name": [
+            {
+              "video_name": "Linked List & its types - Singly, Doubly, Circular etc.",
+              "video_link": "https://www.youtube.com/embed/q8gdBn9RPeI",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+            },
+            {
+              "video_name": "Reverse LL and find Middle of LL",
+              "video_link": "https://www.youtube.com/embed/vqS1nVQdCJM",
+              "progress": false,
+              "article_link": "https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view"
+            },
+            {
+              "video_name": "Linked List Questions: Reverse LL in K group",
+              "video_link": "https://www.youtube.com/embed/fi2vh0nQLi0",
+              "progress": false,
+              "article_link": "https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view"
+            },
+            {
+              "video_name": "Remove Duplicates from a Sorted/UnSorted Linked List",
+              "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+              "progress": false,
+              "article_link": "https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view"
+            },
+            {
+              "video_name": " Merge 2 Sorted Linked Lists",
+              "video_link": "https://www.youtube.com/ogmBt6f9hw8",
+              "progress": false,
+              "article_link": "https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view"
+            }
+          ],
+          "Excercise":["https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+          "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+          "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Linked%20List&sortBy=submissions",
+          "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Linked%20List&sortBy=submissions",
+          "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Linked%20List&sortBy=submissions"
+          
+        ]
+        },
+        {
+          "chapter": "String",
+          "total_duratin": "2:00:00",
+          "topic_name": [
+            {
+              "video_name": "All about Char Arrays, Strings.",
+              "video_link": "https://www.youtube.com/embed/Wdjr6uoZ0e0",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/string-data-structure/"
+            },
+            {
+              "video_name": "Check whether one string is a rotation of another string",
+              "video_link": "https://www.youtube.com/embed/dlt9Gyq6rb0",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+            },
+            {
+              "video_name": "Integer to Roman",
+              "video_link": "https://www.youtube.com/embed/npXYNjtr1mM",
+              "progress": false,
+              "article_link": "https://www.patreon.com/posts/56746297"
+            },
+            {
+              "video_name": "Longest Palindrome in a string",
+              "video_link": "https://www.youtube.com/embed/tbB7v4RHTK8",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/"
+            },
+            {
+              "video_name": " Find Duplicate characters in a string",
+              "video_link": "https://www.youtube.com/5yXjiNhTHtY",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+            }
+          ],
+          "Excercise":[
+            "https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&category[]=Strings&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1?page=1&difficulty[]=2&category[]=Strings&sortBy=submissions"
+          ]
+        },
+        {
+          "chapter": "Stack And Queue",
+          "total_duratin": "2:00:00",
+          "topic_name": [
+            {
+              "video_name": "All about CStack And Queue.",
+              "video_link": "https://www.youtube.com/GYptUgnIM_I",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+            },
+            {
+              "video_name": "Check for Balanced Parentheses",
+              "video_link": "https://www.youtube.com/embed/wkDfsKijrZ8",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+            },
+            {
+              "video_name": "Next Greater Element Using Stack",
+              "video_link": "https://www.youtube.com/embed/Du881K7Jtk8",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+            },
+            {
+              "video_name": "Sliding Window Maximum",
+              "video_link": "https://www.youtube.com/embed/CZQGRp93K4k",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+            },
+            {
+              "video_name": " Rotten Oranges",
+              "video_link": "https://www.youtube.com/yf3oUhkvqA0",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+            }
+          ],
+          "Excercise":[
+            "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Stack&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&difficulty[]=-2&difficulty[]=0&category[]=Stack&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Stack&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Queue&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&difficulty[]=0&category[]=Queue&sortBy=submissions"
+          ]
+        },
+        {
+          "chapter": "Binary Tree",
+          "total_duratin": "2:00:00",
+          "topic_name": [
+            {
+              "video_name": "All about Binary Tree.",
+              "video_link": "https://www.youtube.com/5NiXlPrLslg",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/introduction-of-b-tree-2/"
+            },
+            {
+              "video_name": "Inorder Traversal of Binary Tree",
+              "video_link": "https://www.youtube.com/embed/Z_NEgBgbRVI",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/"
+            },
+            {
+              "video_name": "Preorder Traversal of Binary Tree",
+              "video_link": "https://www.youtube.com/embed/RlUu72JrOCQ",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/"
+            },
+            {
+              "video_name": "Right/Left view of binary tree",
+              "video_link": "https://www.youtube.com/embed/KV4mRzTjlAk",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+            },
+            {
+              "video_name": " Print Root to Node Path in a Binary Tree",
+              "video_link": "https://www.youtube.com/fmflMqVOC7k",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+            }
+          ],
+          "Excercise":[
+            "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+            "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+            "https://leetcode.com/problems/diameter-of-binary-tree/",
+            "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+            "https://leetcode.com/problems/same-tree/"
+          ]
+          
+        },
+        {
+          "chapter": "Binary Search Tree",
+          "total_duratin": "2:00:00",
+          "topic_name": [
+            {
+              "video_name": "All about Binary Search Tree.",
+              "video_link": "https://www.youtube.com/UeRUKRJvPa4",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+            },
+            {
+              "video_name": "Search given Key in BST",
+              "video_link": "https://www.youtube.com/embed/jQS5IC9Gmm0",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+            },
+            {
+              "video_name": "Check is a BT is BST or not",
+              "video_link": "https://www.youtube.com/embed/f-sj7I5oXEI",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/"
+            },
+            {
+              "video_name": "Find LCA of two nodes in BST",
+              "video_link": "https://www.youtube.com/embed/dX1YKKBiClo",
+              "progress": false,
+              "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+            },
+            {
+              "video_name": " Construct BST from preorder traversal",
+              "video_link": "https://www.youtube.com/UmJT3j26t1I",
+              "progress": false,
+              "article_link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+            }
+          ],
+          "Excercise":[
+            "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos",
+            "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos",
+            "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+            "https://leetcode.com/problems/binary-search-tree-iterator/",
+            ""
+          ]
+
+        }
+      ]
+      
+      },
+      {
+        "courseName": "c-Programming-basic-to-advanced",
+        "data": [
+          {
+            "chapter": "Data Types",
+            "total_duratin": "57",
+            "topic_name": [
+              {
+                "video_name": "Data Types",
+                "video_link": "https://www.youtube.com/embed/WQoB2z67hvY",
+                "progress": false,
+                "article_link": ""
+              }
+            ],"Excercise":[
+            "https://practice.geeksforgeeks.org/problems/c-data-types1523/1",
+            "https://practice.geeksforgeeks.org/problems/c-basic-data-types3128/1?page=1&category[]=Data%20Type&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/c-a-speed-breaker5249/1?page=1&category[]=Data%20Type&sortBy=submissions"  
+            ]
+          },
+          {
+            "chapter": "Learn C++",
+            "total_duratin": " 1:37",
+            "topic_name": [
+              {
+                "video_name": "Learn C++",
+                "video_link": "https://www.youtube.com/embed/ZzaPdXTrSb8",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/c-plus-plus/"
+              }
+            ],
+            "Excercise":[
+              "https://practice.geeksforgeeks.org/problems/c-hello-world3402/1?page=1&category[]=CPP&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1?page=1&category[]=CPP&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category[]=CPP&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category[]=CPP&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&category[]=CPP&sortBy=submissions"  
+              ]
+          },
+          {
+            "chapter": "Time Complexity And Space Complexity",
+            "total_duratin": "29:12",
+            "topic_name": [
+              {
+                "video_name": "Time Complexity And Space Complexity",
+                "video_link": "https://www.youtube.com/embed/QovOdd80A4s",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+              }
+            ]
+           
+          },
+          {
+            "chapter": "Array",
+            "total_duratin": "5:20:50",
+            "topic_name": [
+              {
+                "video_name": "Array Intro",
+                "video_link": "https://www.youtube.com/embed/sNrLlmOIn-c",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/what-is-array/"
+              },
+              {
+                "video_name": "Find the duplicate number",
+                "video_link": "https://www.youtube.com/embed/32Ll35mhWg0",
+                "progress": false,
+                "article_link": "https://leetcode.com/problems/find-the-duplicate-number/editorial/"
+              },
+              {
+                "video_name": "Reverse An Array",
+                "video_link": "https://www.youtube.com/embed/WI54wvu0_4E",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+              },
+              {
+                "video_name": "SEARCHING & SORTING",
+                "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                "progress": false,
+                "article_link": "https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/"
+              },
+              {
+                "video_name": " Binary Search Interview Questions",
+                "video_link": "https://www.youtube.com/zD2Jg3alZV8",
+                "progress": false,
+                "article_link": "https://drive.google.com/file/d/1D4SmFwP3vUtoY_FIoDfTjBKfPqSj-4zU/view"
+              }
+            ],
+            "Excercise":[
+              "https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Arrays&sortBy=submissions"
+            ]
+          },
+          {
+            "chapter": "Linked List",
+            "total_duratin": "2:20:50",
+            "topic_name": [
+              {
+                "video_name": "Linked List & its types - Singly, Doubly, Circular etc.",
+                "video_link": "https://www.youtube.com/embed/q8gdBn9RPeI",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+              },
+              {
+                "video_name": "Reverse LL and find Middle of LL",
+                "video_link": "https://www.youtube.com/embed/vqS1nVQdCJM",
+                "progress": false,
+                "article_link": "https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view"
+              },
+              {
+                "video_name": "Linked List Questions: Reverse LL in K group",
+                "video_link": "https://www.youtube.com/embed/fi2vh0nQLi0",
+                "progress": false,
+                "article_link": "https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view"
+              },
+              {
+                "video_name": "Remove Duplicates from a Sorted/UnSorted Linked List",
+                "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                "progress": false,
+                "article_link": "https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view"
+              },
+              {
+                "video_name": " Merge 2 Sorted Linked Lists",
+                "video_link": "https://www.youtube.com/ogmBt6f9hw8",
+                "progress": false,
+                "article_link": "https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view"
+              }
+            ],
+            "Excercise":["https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Linked%20List&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Linked%20List&sortBy=submissions",
+            "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Linked%20List&sortBy=submissions"
+            
+          ]
+          },
+          {
+            "chapter": "String",
+            "total_duratin": "2:00:00",
+            "topic_name": [
+              {
+                "video_name": "All about Char Arrays, Strings.",
+                "video_link": "https://www.youtube.com/embed/Wdjr6uoZ0e0",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/string-data-structure/"
+              },
+              {
+                "video_name": "Check whether one string is a rotation of another string",
+                "video_link": "https://www.youtube.com/embed/dlt9Gyq6rb0",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+              },
+              {
+                "video_name": "Integer to Roman",
+                "video_link": "https://www.youtube.com/embed/npXYNjtr1mM",
+                "progress": false,
+                "article_link": "https://www.patreon.com/posts/56746297"
+              },
+              {
+                "video_name": "Longest Palindrome in a string",
+                "video_link": "https://www.youtube.com/embed/tbB7v4RHTK8",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/"
+              },
+              {
+                "video_name": " Find Duplicate characters in a string",
+                "video_link": "https://www.youtube.com/5yXjiNhTHtY",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+              }
+            ],
+            "Excercise":[
+              "https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&category[]=Strings&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1?page=1&difficulty[]=2&category[]=Strings&sortBy=submissions"
+            ]
+          },
+          {
+            "chapter": "Stack And Queue",
+            "total_duratin": "2:00:00",
+            "topic_name": [
+              {
+                "video_name": "All about CStack And Queue.",
+                "video_link": "https://www.youtube.com/GYptUgnIM_I",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+              },
+              {
+                "video_name": "Check for Balanced Parentheses",
+                "video_link": "https://www.youtube.com/embed/wkDfsKijrZ8",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+              },
+              {
+                "video_name": "Next Greater Element Using Stack",
+                "video_link": "https://www.youtube.com/embed/Du881K7Jtk8",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+              },
+              {
+                "video_name": "Sliding Window Maximum",
+                "video_link": "https://www.youtube.com/embed/CZQGRp93K4k",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+              },
+              {
+                "video_name": " Rotten Oranges",
+                "video_link": "https://www.youtube.com/yf3oUhkvqA0",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+              }
+            ],
+            "Excercise":[
+              "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Stack&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&difficulty[]=-2&difficulty[]=0&category[]=Stack&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Stack&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Queue&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&difficulty[]=0&category[]=Queue&sortBy=submissions"
+            ]
+          },
+          {
+            "chapter": "Binary Tree",
+            "total_duratin": "2:00:00",
+            "topic_name": [
+              {
+                "video_name": "All about Binary Tree.",
+                "video_link": "https://www.youtube.com/5NiXlPrLslg",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/introduction-of-b-tree-2/"
+              },
+              {
+                "video_name": "Inorder Traversal of Binary Tree",
+                "video_link": "https://www.youtube.com/embed/Z_NEgBgbRVI",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/"
+              },
+              {
+                "video_name": "Preorder Traversal of Binary Tree",
+                "video_link": "https://www.youtube.com/embed/RlUu72JrOCQ",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/"
+              },
+              {
+                "video_name": "Right/Left view of binary tree",
+                "video_link": "https://www.youtube.com/embed/KV4mRzTjlAk",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+              },
+              {
+                "video_name": " Print Root to Node Path in a Binary Tree",
+                "video_link": "https://www.youtube.com/fmflMqVOC7k",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+              }
+            ],
+            "Excercise":[
+              "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+              "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+              "https://leetcode.com/problems/diameter-of-binary-tree/",
+              "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+              "https://leetcode.com/problems/same-tree/"
+            ]
+            
+          },
+          {
+            "chapter": "Binary Search Tree",
+            "total_duratin": "2:00:00",
+            "topic_name": [
+              {
+                "video_name": "All about Binary Search Tree.",
+                "video_link": "https://www.youtube.com/UeRUKRJvPa4",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+              },
+              {
+                "video_name": "Search given Key in BST",
+                "video_link": "https://www.youtube.com/embed/jQS5IC9Gmm0",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+              },
+              {
+                "video_name": "Check is a BT is BST or not",
+                "video_link": "https://www.youtube.com/embed/f-sj7I5oXEI",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/"
+              },
+              {
+                "video_name": "Find LCA of two nodes in BST",
+                "video_link": "https://www.youtube.com/embed/dX1YKKBiClo",
+                "progress": false,
+                "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+              },
+              {
+                "video_name": " Construct BST from preorder traversal",
+                "video_link": "https://www.youtube.com/UmJT3j26t1I",
+                "progress": false,
+                "article_link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+              }
+            ],
+            "Excercise":[
+              "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos",
+              "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos",
+              "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+              "https://leetcode.com/problems/binary-search-tree-iterator/",
+              ""
+            ]
+  
+          }
+        ]
+        },
+        {
+          "courseName": "Java-Programming-basic-to-advanced",
+          "data": [
+            {
+              "chapter": "Data Types",
+              "total_duratin": "57",
+              "topic_name": [
+                {
+                  "video_name": "Data Types",
+                  "video_link": "https://www.youtube.com/embed/WQoB2z67hvY",
+                  "progress": false,
+                  "article_link": ""
+                }
+              ],"Excercise":[
+              "https://practice.geeksforgeeks.org/problems/c-data-types1523/1",
+              "https://practice.geeksforgeeks.org/problems/c-basic-data-types3128/1?page=1&category[]=Data%20Type&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/c-a-speed-breaker5249/1?page=1&category[]=Data%20Type&sortBy=submissions"  
+              ]
+            },
+            {
+              "chapter": "Learn C++",
+              "total_duratin": " 1:37",
+              "topic_name": [
+                {
+                  "video_name": "Learn C++",
+                  "video_link": "https://www.youtube.com/embed/ZzaPdXTrSb8",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/c-plus-plus/"
+                }
+              ],
+              "Excercise":[
+                "https://practice.geeksforgeeks.org/problems/c-hello-world3402/1?page=1&category[]=CPP&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1?page=1&category[]=CPP&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category[]=CPP&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category[]=CPP&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&category[]=CPP&sortBy=submissions"  
+                ]
+            },
+            {
+              "chapter": "Time Complexity And Space Complexity",
+              "total_duratin": "29:12",
+              "topic_name": [
+                {
+                  "video_name": "Time Complexity And Space Complexity",
+                  "video_link": "https://www.youtube.com/embed/QovOdd80A4s",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+                }
+              ]
+             
+            },
+            {
+              "chapter": "Array",
+              "total_duratin": "5:20:50",
+              "topic_name": [
+                {
+                  "video_name": "Array Intro",
+                  "video_link": "https://www.youtube.com/embed/sNrLlmOIn-c",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/what-is-array/"
+                },
+                {
+                  "video_name": "Find the duplicate number",
+                  "video_link": "https://www.youtube.com/embed/32Ll35mhWg0",
+                  "progress": false,
+                  "article_link": "https://leetcode.com/problems/find-the-duplicate-number/editorial/"
+                },
+                {
+                  "video_name": "Reverse An Array",
+                  "video_link": "https://www.youtube.com/embed/WI54wvu0_4E",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+                },
+                {
+                  "video_name": "SEARCHING & SORTING",
+                  "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                  "progress": false,
+                  "article_link": "https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/"
+                },
+                {
+                  "video_name": " Binary Search Interview Questions",
+                  "video_link": "https://www.youtube.com/zD2Jg3alZV8",
+                  "progress": false,
+                  "article_link": "https://drive.google.com/file/d/1D4SmFwP3vUtoY_FIoDfTjBKfPqSj-4zU/view"
+                }
+              ],
+              "Excercise":[
+                "https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Arrays&sortBy=submissions"
+              ]
+            },
+            {
+              "chapter": "Linked List",
+              "total_duratin": "2:20:50",
+              "topic_name": [
+                {
+                  "video_name": "Linked List & its types - Singly, Doubly, Circular etc.",
+                  "video_link": "https://www.youtube.com/embed/q8gdBn9RPeI",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+                },
+                {
+                  "video_name": "Reverse LL and find Middle of LL",
+                  "video_link": "https://www.youtube.com/embed/vqS1nVQdCJM",
+                  "progress": false,
+                  "article_link": "https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view"
+                },
+                {
+                  "video_name": "Linked List Questions: Reverse LL in K group",
+                  "video_link": "https://www.youtube.com/embed/fi2vh0nQLi0",
+                  "progress": false,
+                  "article_link": "https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view"
+                },
+                {
+                  "video_name": "Remove Duplicates from a Sorted/UnSorted Linked List",
+                  "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                  "progress": false,
+                  "article_link": "https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view"
+                },
+                {
+                  "video_name": " Merge 2 Sorted Linked Lists",
+                  "video_link": "https://www.youtube.com/ogmBt6f9hw8",
+                  "progress": false,
+                  "article_link": "https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view"
+                }
+              ],
+              "Excercise":["https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Linked%20List&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Linked%20List&sortBy=submissions",
+              "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Linked%20List&sortBy=submissions"
+              
+            ]
+            },
+            {
+              "chapter": "String",
+              "total_duratin": "2:00:00",
+              "topic_name": [
+                {
+                  "video_name": "All about Char Arrays, Strings.",
+                  "video_link": "https://www.youtube.com/embed/Wdjr6uoZ0e0",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/string-data-structure/"
+                },
+                {
+                  "video_name": "Check whether one string is a rotation of another string",
+                  "video_link": "https://www.youtube.com/embed/dlt9Gyq6rb0",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+                },
+                {
+                  "video_name": "Integer to Roman",
+                  "video_link": "https://www.youtube.com/embed/npXYNjtr1mM",
+                  "progress": false,
+                  "article_link": "https://www.patreon.com/posts/56746297"
+                },
+                {
+                  "video_name": "Longest Palindrome in a string",
+                  "video_link": "https://www.youtube.com/embed/tbB7v4RHTK8",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/"
+                },
+                {
+                  "video_name": " Find Duplicate characters in a string",
+                  "video_link": "https://www.youtube.com/5yXjiNhTHtY",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+                }
+              ],
+              "Excercise":[
+                "https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&category[]=Strings&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1?page=1&difficulty[]=2&category[]=Strings&sortBy=submissions"
+              ]
+            },
+            {
+              "chapter": "Stack And Queue",
+              "total_duratin": "2:00:00",
+              "topic_name": [
+                {
+                  "video_name": "All about CStack And Queue.",
+                  "video_link": "https://www.youtube.com/GYptUgnIM_I",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+                },
+                {
+                  "video_name": "Check for Balanced Parentheses",
+                  "video_link": "https://www.youtube.com/embed/wkDfsKijrZ8",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+                },
+                {
+                  "video_name": "Next Greater Element Using Stack",
+                  "video_link": "https://www.youtube.com/embed/Du881K7Jtk8",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+                },
+                {
+                  "video_name": "Sliding Window Maximum",
+                  "video_link": "https://www.youtube.com/embed/CZQGRp93K4k",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+                },
+                {
+                  "video_name": " Rotten Oranges",
+                  "video_link": "https://www.youtube.com/yf3oUhkvqA0",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+                }
+              ],
+              "Excercise":[
+                "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Stack&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&difficulty[]=-2&difficulty[]=0&category[]=Stack&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Stack&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Queue&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&difficulty[]=0&category[]=Queue&sortBy=submissions"
+              ]
+            },
+            {
+              "chapter": "Binary Tree",
+              "total_duratin": "2:00:00",
+              "topic_name": [
+                {
+                  "video_name": "All about Binary Tree.",
+                  "video_link": "https://www.youtube.com/5NiXlPrLslg",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/introduction-of-b-tree-2/"
+                },
+                {
+                  "video_name": "Inorder Traversal of Binary Tree",
+                  "video_link": "https://www.youtube.com/embed/Z_NEgBgbRVI",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/"
+                },
+                {
+                  "video_name": "Preorder Traversal of Binary Tree",
+                  "video_link": "https://www.youtube.com/embed/RlUu72JrOCQ",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/"
+                },
+                {
+                  "video_name": "Right/Left view of binary tree",
+                  "video_link": "https://www.youtube.com/embed/KV4mRzTjlAk",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                },
+                {
+                  "video_name": " Print Root to Node Path in a Binary Tree",
+                  "video_link": "https://www.youtube.com/fmflMqVOC7k",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+                }
+              ],
+              "Excercise":[
+                "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+                "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+                "https://leetcode.com/problems/diameter-of-binary-tree/",
+                "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+                "https://leetcode.com/problems/same-tree/"
+              ]
+              
+            },
+            {
+              "chapter": "Binary Search Tree",
+              "total_duratin": "2:00:00",
+              "topic_name": [
+                {
+                  "video_name": "All about Binary Search Tree.",
+                  "video_link": "https://www.youtube.com/UeRUKRJvPa4",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+                },
+                {
+                  "video_name": "Search given Key in BST",
+                  "video_link": "https://www.youtube.com/embed/jQS5IC9Gmm0",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+                },
+                {
+                  "video_name": "Check is a BT is BST or not",
+                  "video_link": "https://www.youtube.com/embed/f-sj7I5oXEI",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/"
+                },
+                {
+                  "video_name": "Find LCA of two nodes in BST",
+                  "video_link": "https://www.youtube.com/embed/dX1YKKBiClo",
+                  "progress": false,
+                  "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                },
+                {
+                  "video_name": " Construct BST from preorder traversal",
+                  "video_link": "https://www.youtube.com/UmJT3j26t1I",
+                  "progress": false,
+                  "article_link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+                }
+              ],
+              "Excercise":[
+                "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos",
+                "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos",
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+                "https://leetcode.com/problems/binary-search-tree-iterator/",
+                ""
+              ]
+    
+            }
+          ]
+          },
+          {
+            "courseName": "Java-Programming-basic-to-advanced dsa",
+            "data": [
+              {
+                "chapter": "Data Types",
+                "total_duratin": "57",
+                "topic_name": [
+                  {
+                    "video_name": "Data Types",
+                    "video_link": "https://www.youtube.com/embed/WQoB2z67hvY",
+                    "progress": false,
+                    "article_link": ""
+                  }
+                ],"Excercise":[
+                "https://practice.geeksforgeeks.org/problems/c-data-types1523/1",
+                "https://practice.geeksforgeeks.org/problems/c-basic-data-types3128/1?page=1&category[]=Data%20Type&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/c-a-speed-breaker5249/1?page=1&category[]=Data%20Type&sortBy=submissions"  
+                ]
+              },
+              {
+                "chapter": "Learn C++",
+                "total_duratin": " 1:37",
+                "topic_name": [
+                  {
+                    "video_name": "Learn C++",
+                    "video_link": "https://www.youtube.com/embed/ZzaPdXTrSb8",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/c-plus-plus/"
+                  }
+                ],
+                "Excercise":[
+                  "https://practice.geeksforgeeks.org/problems/c-hello-world3402/1?page=1&category[]=CPP&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1?page=1&category[]=CPP&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category[]=CPP&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category[]=CPP&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&category[]=CPP&sortBy=submissions"  
+                  ]
+              },
+              {
+                "chapter": "Time Complexity And Space Complexity",
+                "total_duratin": "29:12",
+                "topic_name": [
+                  {
+                    "video_name": "Time Complexity And Space Complexity",
+                    "video_link": "https://www.youtube.com/embed/QovOdd80A4s",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+                  }
+                ]
+               
+              },
+              {
+                "chapter": "Array",
+                "total_duratin": "5:20:50",
+                "topic_name": [
+                  {
+                    "video_name": "Array Intro",
+                    "video_link": "https://www.youtube.com/embed/sNrLlmOIn-c",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/what-is-array/"
+                  },
+                  {
+                    "video_name": "Find the duplicate number",
+                    "video_link": "https://www.youtube.com/embed/32Ll35mhWg0",
+                    "progress": false,
+                    "article_link": "https://leetcode.com/problems/find-the-duplicate-number/editorial/"
+                  },
+                  {
+                    "video_name": "Reverse An Array",
+                    "video_link": "https://www.youtube.com/embed/WI54wvu0_4E",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+                  },
+                  {
+                    "video_name": "SEARCHING & SORTING",
+                    "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                    "progress": false,
+                    "article_link": "https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/"
+                  },
+                  {
+                    "video_name": " Binary Search Interview Questions",
+                    "video_link": "https://www.youtube.com/zD2Jg3alZV8",
+                    "progress": false,
+                    "article_link": "https://drive.google.com/file/d/1D4SmFwP3vUtoY_FIoDfTjBKfPqSj-4zU/view"
+                  }
+                ],
+                "Excercise":[
+                  "https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Arrays&sortBy=submissions"
+                ]
+              },
+              {
+                "chapter": "Linked List",
+                "total_duratin": "2:20:50",
+                "topic_name": [
+                  {
+                    "video_name": "Linked List & its types - Singly, Doubly, Circular etc.",
+                    "video_link": "https://www.youtube.com/embed/q8gdBn9RPeI",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+                  },
+                  {
+                    "video_name": "Reverse LL and find Middle of LL",
+                    "video_link": "https://www.youtube.com/embed/vqS1nVQdCJM",
+                    "progress": false,
+                    "article_link": "https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view"
+                  },
+                  {
+                    "video_name": "Linked List Questions: Reverse LL in K group",
+                    "video_link": "https://www.youtube.com/embed/fi2vh0nQLi0",
+                    "progress": false,
+                    "article_link": "https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view"
+                  },
+                  {
+                    "video_name": "Remove Duplicates from a Sorted/UnSorted Linked List",
+                    "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                    "progress": false,
+                    "article_link": "https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view"
+                  },
+                  {
+                    "video_name": " Merge 2 Sorted Linked Lists",
+                    "video_link": "https://www.youtube.com/ogmBt6f9hw8",
+                    "progress": false,
+                    "article_link": "https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view"
+                  }
+                ],
+                "Excercise":["https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Linked%20List&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Linked%20List&sortBy=submissions",
+                "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Linked%20List&sortBy=submissions"
+                
+              ]
+              },
+              {
+                "chapter": "String",
+                "total_duratin": "2:00:00",
+                "topic_name": [
+                  {
+                    "video_name": "All about Char Arrays, Strings.",
+                    "video_link": "https://www.youtube.com/embed/Wdjr6uoZ0e0",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/string-data-structure/"
+                  },
+                  {
+                    "video_name": "Check whether one string is a rotation of another string",
+                    "video_link": "https://www.youtube.com/embed/dlt9Gyq6rb0",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+                  },
+                  {
+                    "video_name": "Integer to Roman",
+                    "video_link": "https://www.youtube.com/embed/npXYNjtr1mM",
+                    "progress": false,
+                    "article_link": "https://www.patreon.com/posts/56746297"
+                  },
+                  {
+                    "video_name": "Longest Palindrome in a string",
+                    "video_link": "https://www.youtube.com/embed/tbB7v4RHTK8",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/"
+                  },
+                  {
+                    "video_name": " Find Duplicate characters in a string",
+                    "video_link": "https://www.youtube.com/5yXjiNhTHtY",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+                  }
+                ],
+                "Excercise":[
+                  "https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&category[]=Strings&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1?page=1&difficulty[]=2&category[]=Strings&sortBy=submissions"
+                ]
+              },
+              {
+                "chapter": "Stack And Queue",
+                "total_duratin": "2:00:00",
+                "topic_name": [
+                  {
+                    "video_name": "All about CStack And Queue.",
+                    "video_link": "https://www.youtube.com/GYptUgnIM_I",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+                  },
+                  {
+                    "video_name": "Check for Balanced Parentheses",
+                    "video_link": "https://www.youtube.com/embed/wkDfsKijrZ8",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+                  },
+                  {
+                    "video_name": "Next Greater Element Using Stack",
+                    "video_link": "https://www.youtube.com/embed/Du881K7Jtk8",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+                  },
+                  {
+                    "video_name": "Sliding Window Maximum",
+                    "video_link": "https://www.youtube.com/embed/CZQGRp93K4k",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+                  },
+                  {
+                    "video_name": " Rotten Oranges",
+                    "video_link": "https://www.youtube.com/yf3oUhkvqA0",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+                  }
+                ],
+                "Excercise":[
+                  "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Stack&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&difficulty[]=-2&difficulty[]=0&category[]=Stack&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Stack&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Queue&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&difficulty[]=0&category[]=Queue&sortBy=submissions"
+                ]
+              },
+              {
+                "chapter": "Binary Tree",
+                "total_duratin": "2:00:00",
+                "topic_name": [
+                  {
+                    "video_name": "All about Binary Tree.",
+                    "video_link": "https://www.youtube.com/5NiXlPrLslg",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/introduction-of-b-tree-2/"
+                  },
+                  {
+                    "video_name": "Inorder Traversal of Binary Tree",
+                    "video_link": "https://www.youtube.com/embed/Z_NEgBgbRVI",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/"
+                  },
+                  {
+                    "video_name": "Preorder Traversal of Binary Tree",
+                    "video_link": "https://www.youtube.com/embed/RlUu72JrOCQ",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/"
+                  },
+                  {
+                    "video_name": "Right/Left view of binary tree",
+                    "video_link": "https://www.youtube.com/embed/KV4mRzTjlAk",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                  },
+                  {
+                    "video_name": " Print Root to Node Path in a Binary Tree",
+                    "video_link": "https://www.youtube.com/fmflMqVOC7k",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+                  }
+                ],
+                "Excercise":[
+                  "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+                  "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+                  "https://leetcode.com/problems/diameter-of-binary-tree/",
+                  "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+                  "https://leetcode.com/problems/same-tree/"
+                ]
+                
+              },
+              {
+                "chapter": "Binary Search Tree",
+                "total_duratin": "2:00:00",
+                "topic_name": [
+                  {
+                    "video_name": "All about Binary Search Tree.",
+                    "video_link": "https://www.youtube.com/UeRUKRJvPa4",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+                  },
+                  {
+                    "video_name": "Search given Key in BST",
+                    "video_link": "https://www.youtube.com/embed/jQS5IC9Gmm0",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+                  },
+                  {
+                    "video_name": "Check is a BT is BST or not",
+                    "video_link": "https://www.youtube.com/embed/f-sj7I5oXEI",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/"
+                  },
+                  {
+                    "video_name": "Find LCA of two nodes in BST",
+                    "video_link": "https://www.youtube.com/embed/dX1YKKBiClo",
+                    "progress": false,
+                    "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                  },
+                  {
+                    "video_name": " Construct BST from preorder traversal",
+                    "video_link": "https://www.youtube.com/UmJT3j26t1I",
+                    "progress": false,
+                    "article_link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+                  }
+                ],
+                "Excercise":[
+                  "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos",
+                  "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos",
+                  "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+                  "https://leetcode.com/problems/binary-search-tree-iterator/",
+                  ""
+                ]
+      
+              }
+            ]
+            },
+            {
+              "courseName": "Full Stack Development with React & Node JS",
+              "data": [
+                {
+                  "chapter": "Data Types",
+                  "total_duratin": "57",
+                  "topic_name": [
+                    {
+                      "video_name": "Data Types",
+                      "video_link": "https://www.youtube.com/embed/WQoB2z67hvY",
+                      "progress": false,
+                      "article_link": ""
+                    }
+                  ],"Excercise":[
+                  "https://practice.geeksforgeeks.org/problems/c-data-types1523/1",
+                  "https://practice.geeksforgeeks.org/problems/c-basic-data-types3128/1?page=1&category[]=Data%20Type&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/c-a-speed-breaker5249/1?page=1&category[]=Data%20Type&sortBy=submissions"  
+                  ]
+                },
+                {
+                  "chapter": "Learn C++",
+                  "total_duratin": " 1:37",
+                  "topic_name": [
+                    {
+                      "video_name": "Learn C++",
+                      "video_link": "https://www.youtube.com/embed/ZzaPdXTrSb8",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/c-plus-plus/"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://practice.geeksforgeeks.org/problems/c-hello-world3402/1?page=1&category[]=CPP&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1?page=1&category[]=CPP&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=1&category[]=CPP&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/c-functions-set-1introduction/1?page=1&category[]=CPP&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1?page=1&category[]=CPP&sortBy=submissions"  
+                    ]
+                },
+                {
+                  "chapter": "Time Complexity And Space Complexity",
+                  "total_duratin": "29:12",
+                  "topic_name": [
+                    {
+                      "video_name": "Time Complexity And Space Complexity",
+                      "video_link": "https://www.youtube.com/embed/QovOdd80A4s",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/time-complexity-and-space-complexity/"
+                    }
+                  ]
+                 
+                },
+                {
+                  "chapter": "Array",
+                  "total_duratin": "5:20:50",
+                  "topic_name": [
+                    {
+                      "video_name": "Array Intro",
+                      "video_link": "https://www.youtube.com/embed/sNrLlmOIn-c",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/what-is-array/"
+                    },
+                    {
+                      "video_name": "Find the duplicate number",
+                      "video_link": "https://www.youtube.com/embed/32Ll35mhWg0",
+                      "progress": false,
+                      "article_link": "https://leetcode.com/problems/find-the-duplicate-number/editorial/"
+                    },
+                    {
+                      "video_name": "Reverse An Array",
+                      "video_link": "https://www.youtube.com/embed/WI54wvu0_4E",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+                    },
+                    {
+                      "video_name": "SEARCHING & SORTING",
+                      "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                      "progress": false,
+                      "article_link": "https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/"
+                    },
+                    {
+                      "video_name": " Binary Search Interview Questions",
+                      "video_link": "https://www.youtube.com/zD2Jg3alZV8",
+                      "progress": false,
+                      "article_link": "https://drive.google.com/file/d/1D4SmFwP3vUtoY_FIoDfTjBKfPqSj-4zU/view"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Arrays&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Arrays&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Arrays&sortBy=submissions"
+                  ]
+                },
+                {
+                  "chapter": "Linked List",
+                  "total_duratin": "2:20:50",
+                  "topic_name": [
+                    {
+                      "video_name": "Linked List & its types - Singly, Doubly, Circular etc.",
+                      "video_link": "https://www.youtube.com/embed/q8gdBn9RPeI",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+                    },
+                    {
+                      "video_name": "Reverse LL and find Middle of LL",
+                      "video_link": "https://www.youtube.com/embed/vqS1nVQdCJM",
+                      "progress": false,
+                      "article_link": "https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view"
+                    },
+                    {
+                      "video_name": "Linked List Questions: Reverse LL in K group",
+                      "video_link": "https://www.youtube.com/embed/fi2vh0nQLi0",
+                      "progress": false,
+                      "article_link": "https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view"
+                    },
+                    {
+                      "video_name": "Remove Duplicates from a Sorted/UnSorted Linked List",
+                      "video_link": "https://www.youtube.com/embed/8TVaEGeaGGc",
+                      "progress": false,
+                      "article_link": "https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view"
+                    },
+                    {
+                      "video_name": " Merge 2 Sorted Linked Lists",
+                      "video_link": "https://www.youtube.com/ogmBt6f9hw8",
+                      "progress": false,
+                      "article_link": "https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view"
+                    }
+                  ],
+                  "Excercise":["https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Linked%20List&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Linked%20List&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&category[]=Linked%20List&sortBy=submissions",
+                  "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&difficulty[]=1&difficulty[]=2&category[]=Linked%20List&sortBy=submissions"
+                  
+                ]
+                },
+                {
+                  "chapter": "String",
+                  "total_duratin": "2:00:00",
+                  "topic_name": [
+                    {
+                      "video_name": "All about Char Arrays, Strings.",
+                      "video_link": "https://www.youtube.com/embed/Wdjr6uoZ0e0",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/string-data-structure/"
+                    },
+                    {
+                      "video_name": "Check whether one string is a rotation of another string",
+                      "video_link": "https://www.youtube.com/embed/dlt9Gyq6rb0",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+                    },
+                    {
+                      "video_name": "Integer to Roman",
+                      "video_link": "https://www.youtube.com/embed/npXYNjtr1mM",
+                      "progress": false,
+                      "article_link": "https://www.patreon.com/posts/56746297"
+                    },
+                    {
+                      "video_name": "Longest Palindrome in a string",
+                      "video_link": "https://www.youtube.com/embed/tbB7v4RHTK8",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/"
+                    },
+                    {
+                      "video_name": " Find Duplicate characters in a string",
+                      "video_link": "https://www.youtube.com/5yXjiNhTHtY",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Strings&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Strings&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&category[]=Strings&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1?page=1&difficulty[]=2&category[]=Strings&sortBy=submissions"
+                  ]
+                },
+                {
+                  "chapter": "Stack And Queue",
+                  "total_duratin": "2:00:00",
+                  "topic_name": [
+                    {
+                      "video_name": "All about CStack And Queue.",
+                      "video_link": "https://www.youtube.com/GYptUgnIM_I",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/implement-stack-using-array/"
+                    },
+                    {
+                      "video_name": "Check for Balanced Parentheses",
+                      "video_link": "https://www.youtube.com/embed/wkDfsKijrZ8",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/"
+                    },
+                    {
+                      "video_name": "Next Greater Element Using Stack",
+                      "video_link": "https://www.youtube.com/embed/Du881K7Jtk8",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/"
+                    },
+                    {
+                      "video_name": "Sliding Window Maximum",
+                      "video_link": "https://www.youtube.com/embed/CZQGRp93K4k",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/sliding-window-maximum/"
+                    },
+                    {
+                      "video_name": " Rotten Oranges",
+                      "video_link": "https://www.youtube.com/yf3oUhkvqA0",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Stack&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&difficulty[]=-2&difficulty[]=0&category[]=Stack&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Stack&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1?page=1&difficulty[]=-2&difficulty[]=1&category[]=Queue&sortBy=submissions",
+                    "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&difficulty[]=0&category[]=Queue&sortBy=submissions"
+                  ]
+                },
+                {
+                  "chapter": "Binary Tree",
+                  "total_duratin": "2:00:00",
+                  "topic_name": [
+                    {
+                      "video_name": "All about Binary Tree.",
+                      "video_link": "https://www.youtube.com/5NiXlPrLslg",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/introduction-of-b-tree-2/"
+                    },
+                    {
+                      "video_name": "Inorder Traversal of Binary Tree",
+                      "video_link": "https://www.youtube.com/embed/Z_NEgBgbRVI",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/"
+                    },
+                    {
+                      "video_name": "Preorder Traversal of Binary Tree",
+                      "video_link": "https://www.youtube.com/embed/RlUu72JrOCQ",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/"
+                    },
+                    {
+                      "video_name": "Right/Left view of binary tree",
+                      "video_link": "https://www.youtube.com/embed/KV4mRzTjlAk",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                    },
+                    {
+                      "video_name": " Print Root to Node Path in a Binary Tree",
+                      "video_link": "https://www.youtube.com/fmflMqVOC7k",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+                    "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+                    "https://leetcode.com/problems/diameter-of-binary-tree/",
+                    "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+                    "https://leetcode.com/problems/same-tree/"
+                  ]
+                  
+                },
+                {
+                  "chapter": "Binary Search Tree",
+                  "total_duratin": "2:00:00",
+                  "topic_name": [
+                    {
+                      "video_name": "All about Binary Search Tree.",
+                      "video_link": "https://www.youtube.com/UeRUKRJvPa4",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+                    },
+                    {
+                      "video_name": "Search given Key in BST",
+                      "video_link": "https://www.youtube.com/embed/jQS5IC9Gmm0",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+                    },
+                    {
+                      "video_name": "Check is a BT is BST or not",
+                      "video_link": "https://www.youtube.com/embed/f-sj7I5oXEI",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/"
+                    },
+                    {
+                      "video_name": "Find LCA of two nodes in BST",
+                      "video_link": "https://www.youtube.com/embed/dX1YKKBiClo",
+                      "progress": false,
+                      "article_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/"
+                    },
+                    {
+                      "video_name": " Construct BST from preorder traversal",
+                      "video_link": "https://www.youtube.com/UmJT3j26t1I",
+                      "progress": false,
+                      "article_link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+                    }
+                  ],
+                  "Excercise":[
+                    "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos",
+                    "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos",
+                    "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+                    "https://leetcode.com/problems/binary-search-tree-iterator/",
+                    ""
+                  ]
+        
+                }
+              ]
+              }
+
+    ]
+  }

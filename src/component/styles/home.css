@@ -1,0 +1,40 @@
+.course_cards{
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2em;
+
+}
+
+.card__button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.course_card
+{
+    flex-basis: 22%;
+}
+.explore_button{
+    background-color: aqua;
+}
+
+@media screen and (width<700px) {
+    .course_card{
+        flex-basis: 100%;
+    }
+    .course_cards{
+        justify-content: center !important;
+    }
+
+    .css-1ri6ub7-MuiPaper-root-MuiCard-root{
+        max-width: 400px !important;
+    }
+}
+
+/* @media screen and (width<950px) {
+    .course_card{
+        flex-basis: 33%;
+    }
+} */
