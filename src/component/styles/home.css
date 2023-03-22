@@ -20,21 +20,28 @@
     background-color: aqua;
 }
 
-@media screen and (width<700px) {
-    .course_card{
+@media screen and (max-width:700px) {
+    .course_cards .course_card{
         flex-basis: 100%;
     }
-    .course_cards{
+    .diiv{
         justify-content: center !important;
     }
 
     .css-1ri6ub7-MuiPaper-root-MuiCard-root{
-        max-width: 400px !important;
+        max-width: 420px !important;
+        margin: auto;
     }
 }
 
-/* @media screen and (width<950px) {
+@media screen and (max-width:950px) {
     .course_card{
-        flex-basis: 33%;
+        flex-basis: 30%;
+        
     }
-} */
+
+    .course_cards{
+        gap: 1.5em;
+        justify-content: flex-start;
+    }
+}

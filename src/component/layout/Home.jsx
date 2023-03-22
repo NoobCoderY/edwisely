@@ -11,7 +11,7 @@ const Home = () => {
 
   return(
     <>
-    <div className="course_cards">
+    <div className="course_cards diiv">
      {
 
         course_img.map((data,idx)=>{

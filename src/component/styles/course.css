@@ -34,13 +34,24 @@ gap: 1em;
 
 
 
-@media screen and (width<700px){
-    .main_course_card{
+@media screen and (max-width:700px){
+    .main_course_container .main_course_card{
         flex-basis: 100%;
     }
 
 
     .main_course_container{
         gap: 1.5em;
+    }
+}
+
+@media screen and (max-width:1100px){
+    .main_course_card{
+        flex-basis: 31%;
+    }
+
+
+    .main_course_container{
+        gap: 1em;
     }
 }
