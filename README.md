@@ -11,6 +11,8 @@
 
 7-If you switch from current course to another course and comes back to the same course the previous progress will remain same. To achieve this functionality local storage and redux toolkit is used.
 
-8-For finding all the courses axios is used to fetch the api to display all the data.  
+8-For finding all the courses axios is used to fetch the api to display all the data. 
+
+9-Some times video link throw error because api is not availble online so json file made by myself and video link  throw error because of typing mistake
 
 hosted link-https://edwisely-zp2o.vercel.app/
