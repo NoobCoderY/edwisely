@@ -12,7 +12,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function ImgMediaCard({ image, course_name, price }) {
   const str =
-    "Most popular course {course_name} trusted by over 1,00,000+ students! Built with years of experience by industry experts the course gives you acomplete package of video lectures, practice problems, quizzes, discussion forums, and contests. Start Today!";
+    "Most popular course  trusted by over 1,00,000+ students! Built with years of experience by industry experts the course gives you acomplete package of video lectures, practice problems, quizzes, discussion forums, and contests. Start Today!";
   const select_course_name = useSelector(
     (state) => state.courseSelector.select_course
   );
@@ -39,7 +39,7 @@ export default function ImgMediaCard({ image, course_name, price }) {
           {course_name}
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          {str.substring(0, fullview)}...
+          {str.substring(0, fullview)}
           {fullview === 60 && (
             <Button
               onClick={() => {
@@ -47,7 +47,7 @@ export default function ImgMediaCard({ image, course_name, price }) {
               }}
             >
               {" "}
-              More
+              More...
             </Button>
           )}
           {fullview === str.length && (

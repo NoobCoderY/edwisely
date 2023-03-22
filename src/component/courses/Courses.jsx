@@ -81,12 +81,13 @@ if(course_name!==undefined){
             <h3>{data.course_name.substring(0,34)}...</h3>
           </div>
          
-          <Typography variant="h6" color="text.secondary">
+          <Typography variant="h6" color="text.secondary" >
           {str.substring(0, fullview)}...
           {fullview === 60 && (
             <Button
               onClick={() => {
                 setFullview(str.length);
+                console.log(idx);
               }}
             >
               {" "}
