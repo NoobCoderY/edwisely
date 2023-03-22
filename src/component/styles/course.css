@@ -4,7 +4,7 @@
  flex-wrap: wrap;
 align-items: center;
 justify-content: space-between;
-gap: 1.5em;
+gap: 1em;
 
 }
 
@@ -39,4 +39,8 @@ gap: 1.5em;
         flex-basis: 100%;
     }
 
+
+    .main_course_container{
+        gap: 1.5em;
+    }
 }

@@ -4,6 +4,8 @@ import { useEffect } from "react";
 import "../styles/course.css";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
+import Stack from '@mui/material/Stack';
+import CircularProgress from '@mui/material/CircularProgress';
 
 const Courses = () => {
   const str =
@@ -58,14 +60,15 @@ if(course_name!==undefined){
    arr2 = Object.values(course_instructor).slice(0, 48);
    arr3 = Object.values(course_url).slice(0, 48);
 }
-  // console.log(arr1);
-  // console.log("2",arr2);
-  // console.log(arr3);
   const [fullview, setFullview] = React.useState(60);
 
   return (
-    <>
-     <div className="main_course_container">
+    <>{arr1.length===0 ? <Stack sx={{ color: 'grey.500' ,marginTop:"10em" }} justifyContent="center"
+    spacing={2} direction="row " >
+    <CircularProgress color="secondary"size={100} />
+    <CircularProgress color="success"size={100} />
+    <CircularProgress color="inherit"size={100} />
+  </Stack>:<div className="main_course_container">
     {
       arr1?.map((data,idx)=>{
         let p=[];
@@ -116,7 +119,8 @@ if(course_name!==undefined){
     }
      
        
-      </div>
+      </div>}
+     
     </>
   );
 };

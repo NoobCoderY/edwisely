@@ -15,8 +15,8 @@ const Topic = ({data}) => {
             className="content"
             style={{ marginTop: "0.4em", display: "flex", gap: "2em" }}
           >
-            <h5>31 Video</h5>
-            <h5>duration-5hr</h5>
+            <h5>{data.topic_name.length} Video</h5>
+            <h5>duration &nbsp;- &nbsp;{data.total_duratin}</h5>
           <h5>  Completed 0/31</h5>
           </div>
         </div>

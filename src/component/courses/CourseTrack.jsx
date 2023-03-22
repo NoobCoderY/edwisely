@@ -10,8 +10,6 @@ const CourseTrack = () => {
   const select_course_name = useSelector(
     (state) => state.courseSelector.select_course
   );
-  // console.log(select_course_name);
-
   const getData=()=>{
     let data;
     topicArr.main_data.forEach((key)=>{
@@ -24,7 +22,6 @@ const CourseTrack = () => {
   }
 
   const [topic_name, settopic_name] = React.useState(getData)
-  // console.log(topic_name);
   return (
    <>
    <Progress/>
