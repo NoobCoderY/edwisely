@@ -61,12 +61,9 @@ const Chapter = () => {
   },1500)
   }, [id]);
   const [videoLink, setvideoLink] = React.useState(
-    localStorage.getItem("videoLink") ? localStorage.getItem("videoLink") : ""
+   ""
   );
-  const [article, setarticle] = React.useState(
-    localStorage.getItem("articleLink")
-      ? localStorage.getItem("articleLink")
-      : ""
+  const [article, setarticle] = React.useState( ""
   );
   const [value, setValue] = React.useState("1");
   const handleChange = (event, newValue) => {
